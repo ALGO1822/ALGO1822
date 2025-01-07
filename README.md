@@ -16,7 +16,7 @@ I'm a passionate developer with a knack for solving problems, learning new tech,
 - **Frameworks**: [BOOTSTRAP, Flutter] 📱
 - **Other Tools**: [Git, PPSSPP, Microsoft Office Apps, Adobe Apps] 🛠️
 
-## 🌟 Projects
+## 🌟 Some of my project ideas:
 - **QR Code Payment Software**: An offline transaction app that makes payments seamless. 📲
 - **Motion Graphics**: Simple and captivating church video edits. 🎥
 - **YouTube Tutorial Recommender**: An app that suggests useful YouTube tutorials with a click of a button. 🎯
